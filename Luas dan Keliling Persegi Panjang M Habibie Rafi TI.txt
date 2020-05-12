@@ -1,0 +1,11 @@
+# Nama  : M Habibie Rafi
+# Prodi : Teknik Infomatika
+# NIM	: 04319011
+
+p =int(input("Masukkan Panjang :"))
+l =int(input("Masukkan Lebar :"))
+L=p*l
+
+kell = 2 * (p+l)
+print("luas perrsegi panjang adalah",L,"cm2")
+print("keliling persegi panjang adalah ",kell,"cm2")
