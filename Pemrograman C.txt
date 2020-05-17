@@ -1,0 +1,39 @@
+//Nama	: M Habibie Rafi
+//NIM	: 04319011
+//Prodi	: Teknik Informatika
+
+#include <iostream>}
+#include <string>
+using namespace std;
+int main () {
+  string brg[3][3] ={{"1","Sabun","2000"},{"2","Pastagigi","7500"},{"3","Shampo","2500"}};
+  int kode_brg;
+  int hrg;
+  int i;
+  int jmlh;
+  string nm;
+  //Pendeklarasian ID Barang
+  cout <<"Daftar Barang yang dijual"<<endl;
+  cout <<"ID 1 : Sabun"<<endl;
+  cout <<"ID 2 :Pastagigi"<<endl;
+  cout <<"ID 3 :Shampo"<<endl;
+  //Penginputan ID Barang
+  cout <<"Masukkan ID Barang :";
+  cin >>kode_brg;
+  cout <<"jumlah :";
+  cin >>jmlh;
+  //program pengolahan Daftar
+  for (int i=0; i<5;i++){
+    if(kode_brg==i+1){
+      nm =brg[i][1];
+      hrg =stoi(brg[i][2]);
+      cout<<"Beli"<<jmlh<<" "<<nm;
+      int total =hrg*jmlh;
+      cout<<"Total belanja :Rp."<<total;
+      //error ketika kode  ID  salah 
+    }else if(kode_brg>=4 ||kode_brg==0){
+      cout<<"kode salah !!"<<endl;
+      break;
+    }
+    }
+  } 

@@ -1,0 +1,18 @@
+Pengertian Apa Itu GIT dan Fungsi Dari GIT
+Disini saya akan menjelaskan apa itu Git dan fungsi dari Git ,berikut penjelasannya :
+
+Apa itu Git ?
+Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama.
+Git itu sebuah software, bukanlah sebuah bahasa seperti halnya HTML,CSS atau Js bukan pula sebuah konsep atau aturan baku dalam pemrograman.
+
+Fungsi Dari Git Itu Apa ?
+Fungsi utamanya adalah untuk mengatur versi dari source code anda, menambahkan checkpoint ketika terjadi perubahan pada 
+kode dan tentunya akan mempermudah untuk tetap mengetahui apa saja yang berubah dari source code ,
+selain itu jika anda ingin mengembalikan Project dari awal bisa mengambil source code tersebut di Git
+
+Bagaimana Instalasi Git ?
+Instalasi nya cukup mudah , disini anda bisa Instalasi Menggunakan Software (GUI) dan anda bisa install menggunakan Bash/Command (CLI) , Untuk GUI anda bisa menggunakan Software :
+GitHub for Windows or Mac
+
+Kesimpulan
+Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama.  Git itu sebuah software, bukanlah sebuah bahasa seperti halnya HTML,CSS atau Js bukan pula sebuah konsep atau aturan baku dalam pemrograman.

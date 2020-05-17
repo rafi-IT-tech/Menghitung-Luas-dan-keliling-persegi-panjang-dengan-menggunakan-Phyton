@@ -1,0 +1,4 @@
+Nama : M Habibie Rafi
+Prodi : Teknik Informatika 
+NIM : 04319011
+Git hub project : https://github.com/rafi-IT-tech/Menghitung-Luas-dan-keliling-persegi-panjang-dengan-menggunakan-Phyton/blob/master/Luas%20dan%20Keliling%20Persegi%20Panjang%20M%20Habibie%20Rafi%20TI.txt
